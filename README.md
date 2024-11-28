@@ -2,6 +2,9 @@
 
 Welcome to my GitHub profile! I'm passionate about software development and learning new technologies. Feel free to check out my repositories and contact me if you have any questions.
 
+> 🚀 **Currently seeking internship opportunities!**  
+> If you're a company looking for an enthusiastic intern, feel free to reach out to me via email!
+
 ## 🚀 About Me
 I am a 3rd-year computer science student at Maejo University learning about:
 - Vue.js, PHP (Laravel), and JavaScript for building both backend and frontend solutions
