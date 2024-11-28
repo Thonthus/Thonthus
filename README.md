@@ -18,7 +18,7 @@ I am a 3rd-year computer science student at Maejo University learning about:
 - Enhancing my skills in **Full-Stack Web Development**
 
 ## 💼 Skills & Tools
-- **Languages:** Python, JavaScript, PHP (Laravel)
+- **Languages:** Python, HTML, CSS, JavaScript, PHP (Laravel)
 - **Frameworks:** Vue.js, Tailwind CSS, Laravel
 - **Machine Learning:** scikit-learn, TensorFlow, Keras, OpenCV
 - **Tools & Platforms:** Git, GitHub, Google Firebase, Netlify
